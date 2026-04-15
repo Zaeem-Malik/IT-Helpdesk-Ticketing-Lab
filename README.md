@@ -26,12 +26,19 @@ Demonstrate hands-on experience with:
 
 - Spiceworks Cloud Helpdesk
 
-### Tickets 
+### Ticket Examples
 
 Ticket #1: 
-- Troubleshot the issue and notifies the user when fixed
+- Troubleshot the issue and notified the user when resolved
 - Documented the issue and closed the ticket <br/>
 <img src="https://i.imgur.com/3OHmQzx.png" height="80%" width="80%" alt="Creating VM"/>
+<br />
+<br />
+
+Ticket #2: 
+- Escelcated the ticket to the database adminitrator 
+- Documented the issue and gave as much information as possible <br/>
+<img src="https://i.imgur.com/QmzEDWC.png" height="80%" width="80%" alt="Creating VM"/>
 <br />
 <br />
 
