@@ -36,9 +36,16 @@ Ticket #1:
 <br />
 
 Ticket #2: 
-- Escelcated the ticket to the database adminitrator 
+- Escalated the ticket to the database adminitrator 
 - Documented the issue and gave as much information as possible <br/>
 <img src="https://i.imgur.com/QmzEDWC.png" height="80%" width="80%" alt="Creating VM"/>
+<br />
+<br />
+
+Ticket #3: 
+- Troubleshot the issue and notified the user when resolved
+- Documented the issue in depth and closed the ticket <br/>
+<img src="https://i.imgur.com/muYXoIB.png" height="80%" width="80%" alt="Creating VM"/>
 <br />
 <br />
 
