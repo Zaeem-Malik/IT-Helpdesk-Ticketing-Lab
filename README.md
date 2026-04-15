@@ -26,5 +26,14 @@ Demonstrate hands-on experience with:
 
 - Spiceworks Cloud Helpdesk
 
+### Tickets 
+
+Ticket #1: 
+- Troubleshot the issue and notifies the user when fixed
+- Documented the issue and closed the ticket <br/>
+<img src="https://i.imgur.com/3OHmQzx.png" height="80%" width="80%" alt="Creating VM"/>
+<br />
+<br />
+
 
 
