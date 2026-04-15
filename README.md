@@ -2,8 +2,7 @@
 
 ## Overview 
  
-
-Simulate a real-world IT help desk environment using a ticketing system. 
+Simulate a real-world IT help desk environment using Spiceworks Cloud Help Desk to manage and resolve support tickets.
 
 ## Objective 
 
@@ -17,9 +16,9 @@ Demonstrate hands-on experience with:
 ### Skills Learned
 
 
-- How to manage IT support tickets
-- Importance of documentation
-- Troubleshooting methodology
+- Managing IT support tickets from creation to resolution
+- Importance of clear documentation and communication
+- Prioritzing tickets based on priority level, impact, and SLAs
 
 ### Tools Used
 
